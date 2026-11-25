@@ -29,3 +29,13 @@
 **URL:** [Legal grounds for processing data](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/legal-grounds-processing-data_en)
 
 **Relevance:** This European Commission guidance helps the study understand why health information receives additional protection under GDPR and under what conditions organizations may process it. It connects the research’s focus on health data privacy with the need to balance the use of information for healthcare and research with individuals’ rights and appropriate safeguards.
+
+## GO4 Security and Risk Assessment Guidance
+
+**Title:** Obligations.
+
+**Publisher:** European Commission.
+
+**URL:** [Obligations under GDPR](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/obligations_en)
+
+**Relevance:** This European Commission guidance helps the study understand how organizations identify and manage risks when handling personal data. It connects the research’s focus on digital health information with the responsibility to select appropriate security measures and assess potential harm to individuals before introducing higher-risk processing activities. It supports examination of how privacy and security protections are built into organizational decisions.
