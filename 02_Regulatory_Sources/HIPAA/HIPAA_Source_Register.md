@@ -52,3 +52,13 @@
 **URL:** [Business Associates Frequently Asked Questions](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html)
 
 **Relevance:** This HHS guidance helps the study examine how responsibility for protecting health information extends beyond healthcare organizations to external service providers. It connects the research’s focus on digital healthcare and third-party involvement with the obligations of organizations that handle health information on another organization’s behalf. It supports understanding how agreements and direct responsibilities help maintain privacy and security when information passes between organizations.
+
+## HO6 Enforcement and Compliance
+
+**Title:** HIPAA Enforcement.
+
+**Publisher:** U.S. Department of Health and Human Services (HHS), Office for Civil Rights (OCR).
+
+**URL:** [HIPAA Enforcement](https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/index.html)
+
+**Relevance:** This HHS source helps the study examine how HIPAA requirements are enforced in practice. It connects the research’s focus on organizational accountability with the investigation of complaints, corrective actions, and consequences of noncompliance. Its links to enforcement data, case examples, and resolution agreements can help the study explore practical challenges healthcare organizations face in protecting health information.
