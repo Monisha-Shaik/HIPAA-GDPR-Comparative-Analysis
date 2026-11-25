@@ -41,10 +41,11 @@ For each topic, it records HIPAA and GDPR requirements, supporting provisions, s
 | [Proposed regulatory changes](02_Regulatory_Sources/Proposed_Regulatory_Changes.md) | Selected reforms considered separately from the legal baseline |
 | [Literature review](03_Literature_Review/HIPAA_GDPR_Literature_Review.pdf) | Scholarly context, findings, limitations and the research gap |
 | [Comparison matrix](04_Comparison_Matrix/) | Readable comparisons and the downloadable Excel workbook |
-| [Research findings](05_Research_Findings/) | Comparative findings under development |
-| [Research paper](06_Research_Paper/) | Manuscript under development |
+| [Research findings](05_Research_Findings/) | Comparative findings across eight domains |
+| [Discussion, limitations and conclusion](06_Discussion_Limitations_Conclusion/) | Interpretation, study boundaries and concluding synthesis |
+| [Research paper](07_Research_Paper/) | Manuscript under development |
 
-The proposal, source registers, literature review and comparison matrix are available in this repository. The findings and final paper are being developed from the documented comparisons. Source-version limitations and unresolved verification issues are recorded with the relevant evidence.
+The proposal, source registers, literature review, comparison matrix, findings, discussion, limitations and conclusion are available in this repository. The complete manuscript remains to be assembled. Source-version limitations and unresolved verification issues are recorded with the relevant evidence.
 
-A [research application](07_Research_Application/) remains a planned optional extension for exploring the comparisons. It is separate from the written study's deliverables.
+A [research application](08_Research_Application/) remains a planned optional extension for exploring the comparisons. It is separate from the written study's deliverables.
 
