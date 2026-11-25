@@ -54,6 +54,44 @@ Information meeting HIPAA's Expert Determination or Safe Harbor requirements is 
 
 Healthcare organizations and other entities processing health data can coordinate notices, request handling and data-management procedures. Their processes must nevertheless preserve each framework's purpose, permission, rights, exception and timing requirements. A shared operational process does not establish that the underlying legal decisions are equivalent.
 
+## Security Safeguards
+
+HIPAA’s general security requirements address the confidentiality, integrity and availability of electronic protected health information, including protection against reasonably anticipated threats and impermissible uses or disclosures. GDPR establishes the integrity and confidentiality principle, supported by risk-appropriate security obligations. HIPAA identifies named safeguard standards and distinguishes required from addressable implementation specifications. GDPR Article 32 connects security measures to processing risks and context. These structural differences do not establish that either framework provides better protection (45 CFR § 164.306(a)–(b), (d); Regulation (EU) 2016/679, Articles 5(1)(f), 32).
+
+The comparison examines seven safeguard areas: access controls, integrity controls, encryption and transmission security, audit controls, physical safeguards, recovery and workforce responsibilities. These findings reflect the October 31, 2026 baseline.
+
+### Access Controls and Authentication
+
+HIPAA requires technical access controls and verification of the identity of persons or entities seeking access to electronic protected health information. Unique user identification and emergency access procedures are required implementation specifications; automatic logoff is addressable. GDPR requires risk-appropriate security and steps to ensure that people acting under a controller’s or processor’s authority process data only on instructions, unless otherwise required by law. Both address unauthorized access, through differently structured obligations (45 CFR § 164.312(a), (d); Regulation (EU) 2016/679, Article 32(1)–(2), (4)).
+
+### Integrity Controls
+
+HIPAA requires policies and procedures protecting electronic protected health information against improper alteration or destruction. Its specification for mechanisms corroborating that information has not been altered or destroyed without authorization is addressable. GDPR expressly includes integrity within its security obligations. The comparison therefore identifies a shared protection objective, with different formulations of the associated duties (45 CFR § 164.312(c); Regulation (EU) 2016/679, Articles 5(1)(f), 32(1)(b)).
+
+### Encryption and Transmission Security
+
+Under the HIPAA baseline, encryption at rest and in transit is addressable. This requires assessment and implementation where reasonable and appropriate. A decision against implementation requires documented justification and consideration of a reasonable and appropriate equivalent alternative. Transmission security is a required standard; its integrity-control and encryption implementation specifications are addressable. Addressability therefore does not make transmission protection optional. GDPR includes encryption among measures to apply as appropriate to processing risks and context (45 CFR §§ 164.306(d)(3), 164.312(a)(2)(iv), 164.312(e)(1)–(2); Regulation (EU) 2016/679, Article 32(1)(a), (2)).
+
+### Audit Controls and Activity Review
+
+HIPAA expressly requires mechanisms to record and examine system activity, together with regular review of relevant activity records. GDPR requires accountability and regular assessment of security-measure effectiveness without prescribing the same universal audit-log specification in the cited provisions. System logging and evaluation of security effectiveness are related activities, but should not be treated as interchangeable (45 CFR §§ 164.312(b), 164.308(a)(1)(ii)(D); Regulation (EU) 2016/679, Articles 5(2), 32(1)(d)).
+
+### Physical Safeguards and Device Handling
+
+HIPAA identifies safeguards for facilities, workstations, devices and media, including disposal and reuse. GDPR addresses risks of unauthorized access, loss and destruction through its requirement for appropriate technical and organizational measures. Physical protection can support obligations under both frameworks, although their provisions organize these responsibilities differently (45 CFR § 164.310; Regulation (EU) 2016/679, Article 32(1)–(2)).
+
+### Backups and Recovery
+
+HIPAA specifies contingency-plan components, including required data-backup, disaster-recovery and emergency-mode operation plans. Testing and revision procedures are addressable. GDPR addresses ongoing availability and resilience, timely restoration after incidents and regular effectiveness testing. Both address continuity and recovery, while expressing the associated requirements differently (45 CFR § 164.308(a)(7); Regulation (EU) 2016/679, Article 32(1)(b)–(d)).
+
+### Workforce Training and Sanctions
+
+HIPAA requires security awareness and training, together with appropriate sanctions for workforce noncompliance with security policies and procedures. GDPR addresses processing under authority and, where a data protection officer is designated, includes awareness, training and related audits within that officer’s compliance-monitoring tasks. The cited GDPR provisions do not reproduce HIPAA’s internal-sanctions structure (45 CFR § 164.308(a)(1)(ii)(C), (a)(5); Regulation (EU) 2016/679, Articles 32(4), 39(1)(b)).
+
+### Implication for the Research Question
+
+The comparison indicates opportunities to coordinate security activities across the two frameworks. Organizations must nevertheless map those activities to each framework’s scope, implementation conditions and supporting evidence. Shared objectives do not establish interchangeable legal requirements. These findings describe regulatory responsibilities; they do not rank the frameworks or measure organizational compliance, security effectiveness or patient outcomes.
+
 ## References
 
 45 CFR §§ 160.102–160.103. (2026). General administrative requirements, October 31 historical version.
@@ -82,6 +120,6 @@ https://www.hhs.gov/hipaa/for-professionals/special-topics/health-information-te
 
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope, international-transfer and privacy-requirements comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
+These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements and security-safeguards comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
 
 [Read the comparison matrix](../04_Comparison_Matrix/README.md)
