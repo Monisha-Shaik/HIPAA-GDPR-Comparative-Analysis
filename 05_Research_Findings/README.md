@@ -124,6 +124,44 @@ HIPAA requires specified compliance documentation to be retained for six years f
 
 The comparison indicates that organizations can coordinate risk identification, corrective actions, review schedules and supporting documentation. Each activity must nevertheless address the relevant assessment scope, procedural triggers and assigned responsibilities. Shared evidence may support work under both frameworks, while separate decisions remain necessary for DPIAs, prior consultation, role designation and records of processing. These findings describe governance requirements rather than their effectiveness in practice.
 
+## Third-party Responsibilities
+
+The comparison identified five areas of third-party responsibility: role allocation, contractual arrangements, downstream providers, vendor oversight and termination, and international transfers. Both frameworks assign obligations to organizations handling information for others. The applicable roles, contractual conditions and transfer requirements differ. These findings reflect the October 31, 2026 baseline.
+
+### Roles and Responsibility Allocation
+
+HIPAA defines business associates through specified functions or services involving protected health information on behalf of covered entities, including qualifying subcontractors. Business associates also have direct obligations under applicable HIPAA provisions. GDPR distinguishes controllers, processors and joint controllers according to their actual processing activities. A HIPAA business associate is therefore not automatically a GDPR processor; each role requires a separate assessment (45 CFR §§ 160.103, 164.502(e)(1); Regulation (EU) 2016/679, Articles 4(7)–(8), 26, 28(10)).
+
+### Business Associate and Processing Agreements
+
+HIPAA generally requires satisfactory assurances through a written business associate agreement or permitted arrangement, subject to regulatory exceptions. Required terms address permitted uses and disclosures, safeguards, reporting and assistance with individual rights. GDPR requires processor relationships to be governed by a binding written contract or qualifying legal act containing prescribed terms. Both establish contractual responsibilities, but an agreement meeting one framework’s requirements does not automatically meet the other’s (45 CFR §§ 164.502(e)(2), 164.504(e)(2)–(3), 164.308(b), 164.314(a); Regulation (EU) 2016/679, Article 28(3), (9)).
+
+### Subcontractors and Subprocessors
+
+HIPAA extends applicable restrictions and safeguards to subcontractors handling protected health information on behalf of business associates through required downstream assurances. GDPR requires prior specific or general written controller authorization for subprocessors. General authorization requires notice of intended additions or replacements and an opportunity to object. Required obligations flow down, while the initial processor remains fully liable to the controller for the subprocessor’s performance of those obligations. The comparison therefore identifies downstream protection under both frameworks, with distinct authorization and responsibility provisions (45 CFR §§ 164.502(e)(1)(ii), 164.504(e)(5), 164.308(b)(2); Regulation (EU) 2016/679, Article 28(2), (4)).
+
+### Vendor Oversight and Termination
+
+HIPAA requires reasonable steps to address known material violations of business associate obligations and termination where feasible if those steps are unsuccessful. Required contract terms address return or destruction of protected health information at termination where feasible, with continuing protections and limits where it is infeasible. GDPR requires selection of processors offering sufficient guarantees, compliance evidence and audit cooperation. At service completion, processors must return or delete personal data at the controller’s choice, including existing copies, unless applicable EU or Member State law requires storage. Ending a service relationship therefore does not itself establish that retained information has been appropriately handled (45 CFR § 164.504(e)(1)(ii)–(iii), (e)(2)(ii)(J); Regulation (EU) 2016/679, Article 28(1), (3)(g)–(h)).
+
+### International Transfers
+
+HIPAA does not establish a GDPR-style adequacy regime or a general requirement for US-only storage. Overseas service arrangements remain subject to applicable business associate agreements, safeguards and risk analysis, including consideration of geographic risks (45 CFR §§ 164.308(a)(1), 164.502(e), 164.504(e); U.S. Department of Health and Human Services, n.d.).
+
+GDPR territorial applicability and international-transfer requirements are separate questions. EDPB Guidelines 05/2021 identify three cumulative transfer criteria: an exporter subject to GDPR for the relevant processing; disclosure or availability of personal data to a separate controller or processor; and an importer in a third country or an international organization. Direct collection from an individual in the EU by a US provider subject to Article 3(2) does not itself constitute such a transfer. Subsequent disclosure to a separate third-country provider may do so (European Data Protection Board, 2023, Section 2, pp. 7–9, Examples 1–2).
+
+Where Chapter V applies, an applicable transfer route is required. The EU–US Data Privacy Framework adequacy decision covers transfers to qualifying US organizations on the DPF List, rather than all US recipients. Participation requires self-certification and eligibility under the recognized enforcement arrangements. FTC or Department of Transportation jurisdiction is therefore an important eligibility condition, separate from HIPAA coverage (Commission Implementing Decision (EU) 2023/1795, Article 1, recital 9 and Annex I, Section I.2).
+
+This condition has implications for nonprofit healthcare organizations. The FTC generally lacks jurisdiction over most nonprofits, subject to exceptions (Commission Implementing Decision (EU) 2023/1795, Annex IV, footnote 2). A nonprofit hospital outside the recognized enforcement jurisdictions cannot itself rely on DPF certification as the recipient. Where Chapter V applies, another available route—such as applicable standard contractual clauses with the necessary assessment and safeguards—must be considered. Nonprofit status alone should not substitute for examining the particular entity and activity. This eligibility finding follows from the DPF decision and its accompanying FTC jurisdiction statement. Separately, Tschider et al. (2024) discuss healthcare-related limitations of the DPF and alternative contractual arrangements, including standard contractual clauses.
+
+At the October 31, 2026 cutoff, the DPF adequacy decision remained operative. The General Court dismissed the challenge in Latombe v Commission on September 3, 2025; appeal C-703/25 P remained pending. The pending appeal should be distinguished from a judgment invalidating the decision (Latombe v Commission, T-553/23; C-703/25 P).
+
+The comparison therefore identifies three distinct decisions: whether GDPR applies, whether the particular disclosure constitutes an international transfer, and which transfer route is available to the recipient. A HIPAA business associate agreement does not resolve those decisions.
+
+### Implication for the Research Question
+
+The comparison indicates opportunities to coordinate vendor inventories, contractual records, downstream-provider information and exit procedures. Organizations must nevertheless determine each party’s role, applicable agreement terms, authorization requirements and transfer conditions separately. Shared vendor-management activities can support both frameworks, while their underlying legal obligations remain distinct. These findings concern the allocation of responsibilities rather than measured vendor performance or compliance outcomes.
+
 ## References
 
 45 CFR §§ 160.102–160.103. (2026). General administrative requirements, October 31 historical version.
@@ -150,8 +188,28 @@ U.S. Department of Health and Human Services. (n.d.). *Guidance on HIPAA & cloud
 
 https://www.hhs.gov/hipaa/for-professionals/special-topics/health-information-technology/cloud-computing/index.html
 
+Commission Implementing Decision (EU) 2023/1795. (2023). Adequate level of protection of personal data under the EU–US Data Privacy Framework. *Official Journal of the European Union, L 231*, 118–229. Annex I contains the DPF Principles; Annex IV contains the FTC letter, including its jurisdiction statement in footnote 2.
+
+https://eur-lex.europa.eu/eli/dec_impl/2023/1795/oj/eng
+
+European Data Protection Board. (2023). *Guidelines 05/2021 on the interplay between the application of Article 3 and the provisions on international transfers as per Chapter V of the GDPR* (Version 2.0, adopted February 14, 2023).
+
+https://www.edpb.europa.eu/system/files/documents/2023-02/edpb_guidelines_05-2021_interplay_between_the_application_of_art3-chapter_v_of_the_gdpr_v2_en_0.pdf
+
+Latombe v Commission, T-553/23, ECLI:EU:T:2025:831 (General Court, September 3, 2025).
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62023TJ0553
+
+Latombe v Commission, C-703/25 P. Appeal lodged October 31, 2025; pending at the study cutoff.
+
+https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=en&num=C-703%2F25
+
+Tschider, C., Corrales Compagnucci, M., & Minssen, T. (2024). The new EU–US data protection framework’s implications for healthcare. *Journal of Law and the Biosciences, 11*(2), Article lsae022.
+
+https://doi.org/10.1093/jlb/lsae022
+
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards and risk-management comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
+These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management and third-party-responsibilities comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
 
 [Read the comparison matrix](../04_Comparison_Matrix/README.md)
