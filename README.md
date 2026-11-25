@@ -41,8 +41,8 @@ HIPAA-GDPR-Comparative-Analysis/
 ├── 01_Research_Proposal/
 │   └── HIPAA_GDPR_Research_Proposal.docx
 ├── 02_Regulatory_Sources/
-│   ├── HIPAA/
-│   ├── GDPR/
+│   ├── HIPAA_Source_Register.md
+│   ├── GDPR_Source_Register.md
 │   └── Proposed_Regulatory_Changes/
 ├── 03_Literature_Review/
 ├── 04_Comparison_Matrix/
