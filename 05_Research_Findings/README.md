@@ -194,6 +194,32 @@ HIPAA prescribes individual-notice content and requires evidence that required n
 
 Organizations can coordinate incident investigation, evidence collection and communication preparation. Their procedures must nevertheless preserve separate notification tests, recipients, discovery or awareness determinations, timing requirements and exceptions. A shared incident record can support these decisions, but does not establish that the notification duties are interchangeable. Other applicable reporting regimes require separate assessment. These findings describe regulatory processes rather than their effectiveness in reducing harm.
 
+## Enforcement
+
+The comparison identified four areas: enforcement authorities and jurisdiction, complaints and individual remedies, investigations and cooperation, and corrective actions. Both frameworks provide public enforcement mechanisms, while allocating authority and remedies differently. These findings reflect the October 31, 2026 baseline.
+
+### Enforcement Authorities and Jurisdiction
+
+HHS’s Office for Civil Rights leads federal civil HIPAA enforcement through complaint investigations and compliance reviews. Possible criminal violations may be referred to the Department of Justice. State attorneys general also have authority to bring civil actions on behalf of residents. GDPR enforcement operates through independent Member State supervisory authorities, with lead-authority cooperation and European Data Protection Board dispute resolution in qualifying cross-border cases. Identifying the competent authority therefore requires attention to the organization, processing activity and applicable jurisdiction (45 CFR §§ 160.306–160.312; 42 USC §§ 1320d-5(d), 1320d-6; Regulation (EU) 2016/679, Articles 51, 55–56, 60, 65).
+
+### Complaints and Individual Remedies
+
+HIPAA permits complaints to HHS, generally within 180 days of when the complainant knew or should have known of the alleged violation, with extensions for good cause. Retaliation is prohibited. HIPAA itself does not create a private cause of action; this does not exclude claims available under other laws. GDPR provides supervisory-authority complaints, judicial remedies and qualifying nonprofit representation. Article 82 provides compensation for damage caused by infringement, subject to its responsibility and liability conditions. Regulatory complaints, private remedies and compensation therefore represent distinct routes rather than interchangeable enforcement mechanisms (45 CFR §§ 160.306, 160.316; Acara v. Banks, 470 F.3d 569, 571–72; Regulation (EU) 2016/679, Articles 77–80, 82).
+
+### Investigations and Cooperation
+
+HIPAA authorizes complaint investigations and compliance reviews and requires covered entities and business associates to cooperate, provide relevant records and permit required access. GDPR requires controller and processor cooperation and gives supervisory authorities investigatory powers, including information requests, audits and access to data and premises, subject to applicable procedural requirements. Relevant cross-border cases also involve cooperation between authorities. Both frameworks therefore require organizations to produce compliance evidence, through different investigative arrangements (45 CFR §§ 160.306(c), 160.308, 160.310; Regulation (EU) 2016/679, Articles 31, 57(1)(h), 58(1), 60–62).
+
+Regulation (EU) 2025/2518, which adds procedural rules for cross-border GDPR enforcement, was adopted and in force at the cutoff but applies from April 2, 2027, subject to Article 36 transitional provisions. It is therefore classified as an adopted measure with deferred application, separately from the enforcement procedures applicable on October 31, 2026 (Regulation (EU) 2025/2518, Articles 36–37).
+
+### Corrective Actions and Enforcement Outcomes
+
+HIPAA enforcement can involve voluntary compliance, corrective action and resolution agreements. Unresolved matters may lead to civil money penalties, with administrative hearing rights. GDPR supervisory authorities can issue warnings, reprimands and compliance orders, restrict or prohibit processing, and suspend international data flows. Administrative fines may accompany other corrective measures, and legally binding supervisory decisions are subject to judicial remedy. The comparison identifies differences in available legal responses; it does not establish how frequently or effectively those powers are exercised (45 CFR § 160.312; Part 160, Subparts D–E; Regulation (EU) 2016/679, Articles 58(2), 58(4), 78).
+
+### Implication for the Research Question
+
+Organizations must distinguish the authority investigating a matter, the available complaint or judicial route, and the corrective obligations arising from a decision. Shared practices for preserving evidence, coordinating responses and tracking remedial actions can support both frameworks. Their enforcement structures and available remedies nevertheless require separate interpretation. These findings describe legal powers and procedures rather than comparative enforcement effectiveness or the likelihood of sanctions.
+
 ## References
 
 45 CFR §§ 160.102–160.103. (2026). General administrative requirements, October 31 historical version.
@@ -256,8 +282,12 @@ Regulation (EU) 2025/2518 of the European Parliament and of the Council of 26 No
 
 https://eur-lex.europa.eu/eli/reg/2025/2518/oj/eng
 
+Acara v. Banks, 470 F.3d 569, 571–72 (5th Cir. 2006).
+
+https://www.ca5.uscourts.gov/opinions/pub/06/06-30356-CV0.wpd.pdf
+
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management, third-party-responsibilities and breach-notification comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
+These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management, third-party-responsibilities, breach-notification and enforcement comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
 
 [Read the comparison matrix](../04_Comparison_Matrix/README.md)
