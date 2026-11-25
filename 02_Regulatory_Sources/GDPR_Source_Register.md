@@ -19,3 +19,13 @@
 **URL:** [The general data protection regulation](https://www.consilium.europa.eu/en/policies/data-protection-regulation/)
 
 **Relevance:** This official overview helps the study understand GDPR’s overall approach to protecting personal data. It connects the research’s focus on privacy and security with the relationship between individuals’ rights, organizational responsibilities, and regulatory oversight. It provides context for interpreting the legal text in GO1 and explaining GDPR’s approach in the research paper.
+
+## GO3 Guidance on Health Data
+
+**Title:** Legal grounds for processing data.
+
+**Publisher:** European Commission.
+
+**URL:** [Legal grounds for processing data](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/legal-grounds-processing-data_en)
+
+**Relevance:** This European Commission guidance helps the study understand why health information receives additional protection under GDPR and under what conditions organizations may process it. It connects the research’s focus on health data privacy with the need to balance the use of information for healthcare and research with individuals’ rights and appropriate safeguards.
