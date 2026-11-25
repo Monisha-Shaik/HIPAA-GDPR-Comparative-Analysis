@@ -62,3 +62,13 @@
 **URL:** [HIPAA Enforcement](https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/index.html)
 
 **Relevance:** This HHS source helps the study examine how HIPAA requirements are enforced in practice. It connects the research’s focus on organizational accountability with the investigation of complaints, corrective actions, and consequences of noncompliance. Its links to enforcement data, case examples, and resolution agreements can help the study explore practical challenges healthcare organizations face in protecting health information.
+
+## HO7 Reproductive Health Rule Status
+
+**Title:** HIPAA and Reproductive Health.
+
+**Publisher:** U.S. Department of Health and Human Services (HHS), Office for Civil Rights (OCR).
+
+**URL:** [HIPAA and Reproductive Health](https://www.hhs.gov/hipaa/for-professionals/special-topics/reproductive-health/index.html)
+
+**Relevance:** This HHS source helps the study examine how regulatory developments and court decisions affect health information privacy protections. It connects the research’s focus on current and changing requirements with the need to distinguish provisions that remain applicable from those set aside by a court. It helps prevent the study from presenting the 2024 reproductive-health privacy rule as fully operative.
