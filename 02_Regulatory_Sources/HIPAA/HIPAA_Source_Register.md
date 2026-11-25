@@ -11,7 +11,7 @@
 - [45 CFR Part 160 General Administrative Requirements](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160)
 - [45 CFR Part 164 Security and Privacy](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164)
 
-**Relevance:** These regulatory texts provide the foundation for the HIPAA side of the comparison. Part 160 contains general definitions, applicability, enforcement procedures, and civil money penalty provisions. Part 164 contains the privacy, security, and breach-notification requirements. Together, they support analysis of regulatory scope, privacy obligations, security safeguards, risk management, third-party responsibilities, breach notification, enforcement, and penalties.
+**Relevance:** These regulations provide the primary legal foundation for examining how HIPAA protects health information. They allow the study to establish what HIPAA requires directly from the regulatory text, giving the research a reliable basis for its analysis and findings.
 
 ## HO2 Summary of the HIPAA Privacy Rule
 
@@ -21,7 +21,7 @@
 
 **URL:** [Summary of the HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
-**Relevance:** This official explanatory summary helps interpret the HIPAA Privacy Rule. It covers who is subject to the rule, what protected health information is, permitted uses and disclosures, the minimum necessary principle, and individuals' rights. It supports the comparison of HIPAA and GDPR regulatory scope and privacy obligations. It is supporting guidance; the regulatory text governs if the summary conflicts with the rule.
+**Relevance:** This HHS summary helps the study understand HIPAA’s approach to protecting the privacy of health information. It explains the relationship between protecting individuals’ information and allowing its use for healthcare purposes, supporting the research’s examination of privacy obligations and individual rights.
 
 ## HO3 Summary of the HIPAA Security Rule
 
@@ -31,4 +31,14 @@
 
 **URL:** [Summary of the HIPAA Security Rule](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)
 
-**Relevance:** Explains safeguards for electronic protected health information, including risk analysis, risk management, access controls, and organizational responsibilities. It supports our comparison of HIPAA and GDPR security requirements.
+**Relevance:** This HHS summary helps the study understand how HIPAA addresses the security risks associated with electronic health information. It connects the research’s focus on digital healthcare with organizations’ responsibilities to assess risks and protect information through appropriate safeguards.
+
+## HO4 Breach Notification Rule
+
+**Title:** Breach Notification Rule.
+
+**Publisher:** U.S. Department of Health and Human Services (HHS), Office for Civil Rights (OCR).
+
+**URL:** [Breach Notification Rule](https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html)
+
+**Relevance:** This HHS source helps the study examine how HIPAA responds when the privacy or security of health information has been compromised. It supports the research’s examination of how organizations assess breaches, communicate with those affected, and remain accountable after an incident.
