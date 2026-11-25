@@ -15,7 +15,12 @@ This register identifies core regulatory sources for the HIPAA analysis. The com
 
 **Relevance:** These regulations provide the primary legal foundation for examining how HIPAA protects health information. They allow the study to establish what HIPAA requires directly from the regulatory text, giving the research a reliable basis for its analysis and findings.
 
-**Source type and version:** Binding regulations. The eCFR URLs above display current content and can change after the study cutoff. The official annual edition below is dated October 1, 2025 and is not, by itself, confirmation of the complete October 31, 2026 text. Court decisions and subsequent amendments must be considered separately. The final October 30–31 historical archive check remains unresolved in the matrix's verification record.
+**Source type and version:** Binding regulations. The eCFR URLs above display current content and can change after the study cutoff. The official annual edition below is dated October 1, 2025 and is not, by itself, confirmation of the complete October 31, 2026 text. Court decisions and subsequent amendments must be considered separately. User-supplied eCFR text captures of Parts 160 and 164 display the version in effect on October 31, 2026 and were used to check the historical baseline. Court-affected provisions are interpreted alongside the cited HHS and judicial materials.
+
+**Historical eCFR URLs:**
+
+- [https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-160](https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-160)
+- [https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-164](https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-164)
 
 **Official annual edition URL:**
 
@@ -92,3 +97,13 @@ This register identifies core regulatory sources for the HIPAA analysis. The com
 **Relevance:** This HHS source helps the study examine how regulatory developments and court decisions affect health information privacy protections. It connects the research’s focus on current and changing requirements with the need to distinguish provisions that remain applicable from those set aside by a court. It helps prevent the study from presenting the 2024 reproductive-health privacy rule as fully operative.
 
 **Legal-status context:** HHS reports that the June 18, 2025 order in Purl v. HHS vacated most of the 2024 reproductive-health rule. Specified notice provisions at § 164.520(b)(1)(ii)(F)–(H) were vacated; the remaining notice modifications were undisturbed, with compliance required by February 16, 2026. The page also retains earlier descriptions of the rule, which must be read subject to that status notice. The matrix lists supporting court documents separately.
+
+**Subsequent appeal history:** The Fifth Circuit dismissed the proposed intervenors' appeal on September 10, 2025, on their motion. The government stated in its September 2 letter that it had not noticed an appeal. These hosted court and government documents support the procedural history; the matrix identifies them under HIPAA-36.
+
+**Appeal-dismissal order URL:**
+
+[https://litigationtracker.law.georgetown.edu/wp-content/uploads/2025/09/Purl_2025.09.10_ORDER-ON-MOTION-TO-DISMISS.pdf](https://litigationtracker.law.georgetown.edu/wp-content/uploads/2025/09/Purl_2025.09.10_ORDER-ON-MOTION-TO-DISMISS.pdf)
+
+**Government letter URL:**
+
+[https://litigationtracker.law.georgetown.edu/wp-content/uploads/2025/09/Purl_2025.09.02_DEFENDANTS-LETTER.pdf](https://litigationtracker.law.georgetown.edu/wp-content/uploads/2025/09/Purl_2025.09.02_DEFENDANTS-LETTER.pdf)
