@@ -10,21 +10,12 @@ This register identifies core regulatory sources for the HIPAA analysis. The com
 
 **URLs:**
 
-- [https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160)
-- [https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164)
-
-**Relevance:** These regulations provide the primary legal foundation for examining how HIPAA protects health information. They allow the study to establish what HIPAA requires directly from the regulatory text, giving the research a reliable basis for its analysis and findings.
-
-**Source type and version:** Binding regulations. The eCFR URLs above display current content and can change after the study cutoff. The official annual edition below is dated October 1, 2025 and is not, by itself, confirmation of the complete October 31, 2026 text. Court decisions and subsequent amendments must be considered separately. User-supplied eCFR text captures of Parts 160 and 164 display the version in effect on October 31, 2026 and were used to check the historical baseline. Court-affected provisions are interpreted alongside the cited HHS and judicial materials.
-
-**Historical eCFR URLs:**
-
 - [https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-160](https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-160)
 - [https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-164](https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-164)
 
-**Official annual edition URL:**
+**Relevance:** These regulations provide the primary legal foundation for examining HIPAA's coverage and privacy/security responsibilities. The dated versions align the proposal, matrix and findings with the study cutoff.
 
-[https://www.govinfo.gov/content/pkg/CFR-2025-title45-vol2/xhtml/CFR-2025-title45-vol2-chapA-subchapC.html](https://www.govinfo.gov/content/pkg/CFR-2025-title45-vol2/xhtml/CFR-2025-title45-vol2-chapA-subchapC.html)
+**Source type and version:** Binding regulations, eCFR historical versions in effect on October 31, 2026. User-supplied captures of Parts 160 and 164 display that date. Court-affected provisions are interpreted alongside the cited HHS and judicial materials; presence in the regulatory text alone does not establish enforceability.
 
 ## HO2 Summary of the HIPAA Privacy Rule
 

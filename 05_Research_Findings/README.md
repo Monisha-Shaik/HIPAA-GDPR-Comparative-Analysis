@@ -2,7 +2,7 @@
 
 ## Regulatory Scope
 
-The comparison identified four dimensions along which coverage differs: organizations covered, information protected, territorial applicability and the boundary between identifiable and de-identified or anonymous information. Both frameworks assign responsibilities for protecting identifiable health information, but their coverage boundaries are not interchangeable. These findings reflect the October 31, 2026 baseline.
+The comparison identified three dimensions along which coverage differs: organizations covered, information protected and territorial applicability. Both frameworks assign responsibilities for protecting identifiable health information, but their coverage boundaries are not interchangeable. These findings reflect the October 31, 2026 baseline.
 
 ### Organizations Covered
 
@@ -14,17 +14,13 @@ HIPAA protects individually identifiable health information within its coverage 
 
 ### Territorial Applicability and International Transfers
 
-The comparison distinguishes whether a framework applies from the conditions governing overseas processing. HIPAA coverage follows covered-entity and business-associate relationships rather than an establishment or targeting test equivalent to GDPR Article 3. GDPR applicability depends on its territorial criteria, including EU establishment and specified offering-of-goods-or-services or monitoring activities involving people in the EU. Separately, GDPR Chapter V regulates transfers of personal data to third countries or international organizations. HHS guidance permits overseas cloud storage when applicable HIPAA requirements are satisfied, including business-associate arrangements and assessment of geographic risks. Overseas-storage permission therefore should not be compared directly with GDPR's applicability test (45 CFR §§ 160.102–160.103; Regulation (EU) 2016/679, Article 3 and Chapter V; U.S. Department of Health and Human Services [HHS], n.d.-b).
+HIPAA coverage follows covered-entity and business-associate relationships rather than an establishment or targeting test equivalent to GDPR Article 3. GDPR separately establishes territorial applicability through EU establishment and specified offering-of-goods-or-services or monitoring activities involving people in the EU. Identifying the applicable framework is therefore a separate decision from deciding whether information may be processed overseas (45 CFR §§ 160.102–160.103; Regulation (EU) 2016/679, Article 3).
 
-### De-identification and the Boundary of Protection
+The transfer comparison identifies an additional decision under GDPR. Where personal data are transferred to a third country or international organization, Chapter V requires an applicable transfer route, such as an adequacy decision, appropriate safeguards or a qualifying derogation. A processor agreement alone does not establish that route. HIPAA does not establish an equivalent Chapter V transfer mechanism. HHS guidance permits overseas cloud storage when applicable HIPAA requirements are met, including business-associate arrangements and assessment of geographic risks. Consequently, healthcare organizations and other entities processing health data may need both a valid service-provider arrangement and a separate GDPR transfer assessment for the same data flow (45 CFR §§ 164.308(a)(1)(ii)(A) and 164.502(e); Regulation (EU) 2016/679, Articles 44–49; U.S. Department of Health and Human Services, n.d.).
 
-Whether information remains identifiable creates another important coverage distinction. Information meeting HIPAA's de-identification requirements through Expert Determination or Safe Harbor is no longer protected health information. Under GDPR, pseudonymisation does not itself remove information from protection: data attributable to an individual using additional information remain personal data. Anonymous information falls outside GDPR where individuals are no longer identifiable under the assessment described in Recital 26. Consequently, satisfying HIPAA de-identification requirements does not automatically establish GDPR anonymity (45 CFR § 164.514(a)–(b); Regulation (EU) 2016/679, Recital 26 and Article 4(5); HHS, n.d.-a).
+### Implication for the Research Question
 
-### Implications for Health-data Processing and AI Training
-
-Healthcare organizations and other entities processing health data must assess applicability separately under each framework. Shared safeguards can support governance, but cannot replace identification of the relevant organizational roles, information, activities and territorial conditions.
-
-This distinction also matters when treatment data are reused for AI training. HIPAA-de-identified information may remain personal data under GDPR. Where identifiable health data remain within GDPR, reuse requires an appropriate Article 6 basis and Article 9 condition, alongside assessment of purpose limitation and other applicable duties. Permission to process information for treatment does not automatically establish permission for a vendor's separate model-training purpose (Regulation (EU) 2016/679, Articles 5, 6 and 9). These findings identify differences in coverage and reuse conditions rather than a general permission or prohibition on AI training. They concern regulatory responsibilities, not measured improvements in privacy, security or patient outcomes.
+Healthcare organizations and other entities processing health data must assess applicability separately under each framework. Shared safeguards can support governance, but cannot replace identification of the relevant organizational roles, information, activities and territorial conditions. Where processing involves an international transfer, satisfying HIPAA requirements does not itself satisfy GDPR Chapter V. These findings concern allocation of regulatory responsibilities rather than measured privacy, security or patient outcomes.
 
 ## References
 
@@ -32,24 +28,20 @@ This distinction also matters when treatment data are reused for AI training. HI
 
 https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-160
 
-45 CFR § 164.514. (2026). Other requirements relating to uses and disclosures of protected health information, October 31 historical version.
+45 CFR Part 164. (2026). Security and privacy, October 31 historical version.
 
-https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-164/section-164.514
+https://www.ecfr.gov/on/2026-10-31/title-45/subtitle-A/subchapter-C/part-164
 
 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016. (2016). *Official Journal of the European Union, L 119*, 4 May 2016, 1–88.
 
 https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng
 
-U.S. Department of Health and Human Services. (n.d.-a). *Guidance regarding methods for de-identification of protected health information in accordance with the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule.*
-
-https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html
-
-U.S. Department of Health and Human Services. (n.d.-b). *Guidance on HIPAA & cloud computing.* See “Do the HIPAA Rules allow a covered entity or business associate to use a CSP that stores ePHI on servers outside of the United States?”
+U.S. Department of Health and Human Services. (n.d.). *Guidance on HIPAA & cloud computing.* See “Do the HIPAA Rules allow a covered entity or business associate to use a CSP that stores ePHI on servers outside of the United States?”
 
 https://www.hhs.gov/hipaa/for-professionals/special-topics/health-information-technology/cloud-computing/index.html
 
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope comparisons and its de-identification, anonymisation and pseudonymisation comparison. The AI-training example illustrates an implication of those distinctions; it is not a separate empirical study.
+These findings synthesize the matrix's regulatory-scope and international-transfer comparisons. De-identification is addressed under Privacy Requirements.
 
 [Read the comparison matrix](../04_Comparison_Matrix/README.md)
