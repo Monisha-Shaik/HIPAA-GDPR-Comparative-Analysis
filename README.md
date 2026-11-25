@@ -2,7 +2,7 @@
 
 **Health Data Privacy and Security Under HIPAA and GDPR: A Comparative Analysis of Current and Proposed Requirements**
 
-Researcher: Monisha Shaik · Indiana University · September 2026 proposal
+Researcher: Monisha Shaik · Indiana University · Fall 2026 proposal
 
 ## Research overview
 
