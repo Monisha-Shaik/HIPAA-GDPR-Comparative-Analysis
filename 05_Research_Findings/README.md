@@ -162,6 +162,38 @@ The comparison therefore identifies three distinct decisions: whether GDPR appli
 
 The comparison indicates opportunities to coordinate vendor inventories, contractual records, downstream-provider information and exit procedures. Organizations must nevertheless determine each party’s role, applicable agreement terms, authorization requirements and transfer conditions separately. Shared vendor-management activities can support both frameworks, while their underlying legal obligations remain distinct. These findings concern the allocation of responsibilities rather than measured vendor performance or compliance outcomes.
 
+## Breach Notification
+
+The comparison identified five areas: breach definitions and notification thresholds, regulator notification, individual and public communication, service-provider reporting, and notification content and documentation. Differences concern the reporting decision, recipient and starting event as well as the deadline. These findings reflect the October 31, 2026 baseline. Other incident-reporting regimes may apply, including national laws implementing NIS2 for in-scope EU health-sector entities and the FTC Health Breach Notification Rule for certain non-HIPAA health applications in the United States; these regimes are outside this comparison (Directive (EU) 2022/2555, Article 23 and Annex I; 16 CFR Part 318).
+
+### Breach Definition and Notification Thresholds
+
+Under HIPAA, an impermissible acquisition, access, use or disclosure of protected health information is presumed to be a breach unless an exception applies or an assessment demonstrates a low probability of compromise. Notification duties concern unsecured protected health information. GDPR defines personal-data breaches to include destruction, loss, alteration, unauthorized disclosure or access, with separate notification thresholds for supervisory authorities and individuals. The same incident therefore requires assessment under each framework’s conditions (45 CFR § 164.402; Regulation (EU) 2016/679, Articles 4(12), 33(1), 34(1)).
+
+Encryption also has distinct notification consequences. Protection meeting HHS guidance, including the condition that the confidential decryption process or key has not been breached, can remove information from HIPAA’s unsecured-PHI notification requirements. Under GDPR, rendering affected data unintelligible can exempt individual communication, but does not automatically remove supervisory-authority reporting (45 CFR § 164.402; U.S. Department of Health and Human Services, n.d.-b; Regulation (EU) 2016/679, Articles 33(1), 34(3)(a)).
+
+### Notification to Regulators
+
+HIPAA requires covered entities to notify HHS of breaches affecting 500 or more individuals without unreasonable delay and within 60 days of discovery. Breaches affecting fewer than 500 individuals must be reported within 60 days after the discovery year ends. GDPR requires controller notification without undue delay and, where feasible, within 72 hours of awareness, unless risk to individuals’ rights and freedoms is unlikely. Delays require reasons; information may be supplied in phases without undue further delay. The comparison therefore cannot be reduced to “60 days versus 72 hours” (45 CFR § 164.408; Regulation (EU) 2016/679, Article 33(1), (4)).
+
+### Notification to Individuals and Public Communication
+
+HIPAA requires notification to affected individuals without unreasonable delay and within 60 days of discovery. Additional media notification applies when a breach affects more than 500 residents of a State or jurisdiction; substitute-notice provisions apply in specified circumstances. GDPR requires individual communication without undue delay where high risk is likely, subject to specified exceptions. Disproportionate effort requires an equally effective public communication or similar measure. Public communication therefore serves different functions under the two frameworks (45 CFR §§ 164.404, 164.406; Regulation (EU) 2016/679, Article 34).
+
+HIPAA permits qualifying law-enforcement delays. GDPR Recital 88 indicates that breach-communication rules should account for law-enforcement interests, but does not itself create a general delay permission equivalent to § 164.412. Any legislative restriction must satisfy Article 23 and the applicable law (45 CFR § 164.412; Regulation (EU) 2016/679, Recital 88 and Article 23).
+
+### Business Associate and Processor Reporting
+
+HIPAA requires business associates to notify covered entities without unreasonable delay and within 60 days of discovery, providing affected-person details and available notification information. GDPR requires processors to notify controllers without undue delay after awareness, without a separate numerical deadline in Article 33(2). These service-provider reports are distinct from the responsible organization’s notifications to authorities and individuals (45 CFR § 164.410; Regulation (EU) 2016/679, Articles 28(3)(f), 33(2)).
+
+### Notification Content and Documentation
+
+HIPAA prescribes individual-notice content and requires evidence that required notifications were provided or that notification was unnecessary. Incorporated documentation requirements establish retention for six years from creation or the date last in effect, whichever is later. GDPR prescribes authority-report and individual-communication content and requires controllers to document all personal-data breaches, including those not requiring authority notification. Both frameworks therefore require incident evidence, while specifying different records and notification contents (45 CFR §§ 164.404(c), 164.414, 164.530(j); Regulation (EU) 2016/679, Articles 33(3)–(5), 34(2)).
+
+### Implication for the Research Question
+
+Organizations can coordinate incident investigation, evidence collection and communication preparation. Their procedures must nevertheless preserve separate notification tests, recipients, discovery or awareness determinations, timing requirements and exceptions. A shared incident record can support these decisions, but does not establish that the notification duties are interchangeable. Other applicable reporting regimes require separate assessment. These findings describe regulatory processes rather than their effectiveness in reducing harm.
+
 ## References
 
 45 CFR §§ 160.102–160.103. (2026). General administrative requirements, October 31 historical version.
@@ -222,6 +254,6 @@ https://www.hhs.gov/hipaa/for-professionals/breach-notification/guidance/index.h
 
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management and third-party-responsibilities comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
+These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management, third-party-responsibilities and breach-notification comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
 
 [Read the comparison matrix](../04_Comparison_Matrix/README.md)
