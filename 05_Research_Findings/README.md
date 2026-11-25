@@ -220,6 +220,47 @@ HIPAA enforcement can involve voluntary compliance, corrective action and resolu
 
 Organizations must distinguish the authority investigating a matter, the available complaint or judicial route, and the corrective obligations arising from a decision. Shared practices for preserving evidence, coordinating responses and tracking remedial actions can support both frameworks. Their enforcement structures and available remedies nevertheless require separate interpretation. These findings describe legal powers and procedures rather than comparative enforcement effectiveness or the likelihood of sanctions.
 
+## Penalties
+
+The comparison identified four areas: civil penalty structure, monetary limits, penalty factors and correction, and criminal sanctions or other national penalties. Both frameworks provide financial sanctions, but organize their calculation and limits differently. These findings reflect the October 31, 2026 baseline.
+
+### Civil Penalty Structure
+
+HIPAA organizes civil money penalties into four tiers based on knowledge, reasonable cause, willful neglect and correction. GDPR establishes administrative-fine ceilings according to the infringed provisions and considers culpability when determining the sanction. Member States determine whether and to what extent administrative fines apply to public authorities and bodies. These structures require identification of the relevant violation and responsible entity before potential sanctions can be compared (45 CFR §§ 160.401–160.404; Regulation (EU) 2016/679, Article 83(2), (4)–(7)).
+
+### Civil Monetary Limits at the Research Cutoff
+
+The HIPAA adjustment table published on January 28, 2026 specifies the following per-violation ranges:
+
+| HIPAA tier | Published range per violation |
+|---|---:|
+| Tier 1: lack of knowledge despite reasonable diligence | $145–$73,011 |
+| Tier 2: reasonable cause without willful neglect | $1,461–$73,011 |
+| Tier 3: willful neglect corrected within the applicable period | $14,602–$73,011 |
+| Tier 4: willful neglect not corrected within the applicable period | $73,011–$2,190,294 |
+
+The published regulatory calendar-year cap is $2,190,294 for violations of an identical requirement or prohibition. The October 21, 2026 notice retains these 2025-adjusted amounts for 2026. Applicability depends on the violation and assessment dates (45 CFR §§ 102.3, 160.404; 91 FR 3665; 91 FR 66566).
+
+HHS’s 2019 enforcement-discretion policy separately establishes lower annual caps for the first three tiers, subject to inflation adjustment. That policy must be distinguished from the published regulatory table; neither the table nor the discretionary caps represent an automatic penalty or settlement amount (84 FR 18151).
+
+Separately, state-attorney-general civil actions may result in statutory damages of up to $100 per violation, capped at $25,000 per calendar year for violations of an identical requirement or prohibition; these court-awarded damages are distinct from HHS administrative civil money penalties and are not adjusted under the HHS inflation table (42 USC § 1320d-5(d)(2)(A)–(B)).
+
+GDPR Article 83(4) provides a ceiling of €10 million or, for an undertaking, 2% of the preceding financial year’s worldwide annual turnover, whichever is higher. Article 83(5)–(6) provides a ceiling of €20 million or 4%, whichever is higher. These infringement-based ceilings differ from HIPAA’s per-violation ranges and identical-violation annual caps; the figures alone do not establish comparative sanction severity (Regulation (EU) 2016/679, Article 83(4)–(6)).
+
+### Penalty Factors and Correction
+
+HIPAA considers the nature and extent of the violation, resulting harm, compliance history, financial condition and other relevant circumstances. Its provisions also establish conditional correction defenses and reduction or waiver mechanisms. GDPR considers factors including seriousness, duration, intent or negligence, mitigation, prior infringements and cooperation. Administrative fines must be effective, proportionate and dissuasive. Correction therefore has different legal functions under the two frameworks and does not universally remove liability (45 CFR §§ 160.408–160.412; Regulation (EU) 2016/679, Article 83(1)–(3)).
+
+### Criminal Sanctions and Other National Penalties
+
+HIPAA’s federal criminal provision addresses specified knowing misconduct involving individually identifiable health information. It provides maximum penalties of $50,000 and one year’s imprisonment, increasing to $100,000 and five years for false pretenses, and $250,000 and ten years for specified commercial, personal-gain or malicious purposes; fines, imprisonment or both may apply. These criminal penalties are separate from the civil inflation-adjustment table (42 USC § 1320d-6(a)–(b)).
+
+GDPR does not establish a single EU-wide imprisonment schedule. Article 84 requires Member States to establish other penalties, particularly for infringements outside Article 83, while Recital 149 recognizes national criminal sanctions. Specific criminal consequences therefore require examination of the relevant national law (Regulation (EU) 2016/679, Article 84 and Recital 149).
+
+### Implication for the Research Question
+
+Organizations must distinguish the infringed obligation, culpability, correction history, applicable monetary limits and potential criminal exposure. Penalty figures should be interpreted within those conditions, including the distinction between regulatory limits and enforcement discretion. This comparison describes available sanction structures; it does not predict penalties, compare actual enforcement severity or rank either framework’s deterrent effect.
+
 ## References
 
 45 CFR §§ 160.102–160.103. (2026). General administrative requirements, October 31 historical version.
@@ -286,8 +327,28 @@ Acara v. Banks, 470 F.3d 569, 571–72 (5th Cir. 2006).
 
 https://www.ca5.uscourts.gov/opinions/pub/06/06-30356-CV0.wpd.pdf
 
+Annual Civil Monetary Penalties Inflation Adjustment, 91 FR 3665–3682 (January 28, 2026) (45 CFR Part 102).
+
+https://www.govinfo.gov/content/pkg/FR-2026-01-28/html/2026-01688.htm
+
+No Adjustment to HHS Civil Monetary Penalty Amounts for 2026, 91 FR 66566–66567 (October 21, 2026).
+
+https://www.govinfo.gov/content/pkg/FR-2026-10-21/html/2026-21524.htm
+
+Notification of Enforcement Discretion Regarding HIPAA Civil Money Penalties, 84 FR 18151–18153 (April 30, 2019).
+
+https://www.govinfo.gov/content/pkg/FR-2019-04-30/html/2019-08530.htm
+
+42 USC § 1320d-5. General penalty for failure to comply with requirements and standards. Subsection (d)(2) specifies state-attorney-general statutory damages.
+
+https://uscode.house.gov/us/usc/t42/s1320d-5/
+
+42 USC § 1320d-6. Wrongful disclosure of individually identifiable health information.
+
+https://www.govinfo.gov/content/pkg/USCODE-2024-title42/html/USCODE-2024-title42-chap7-subchapXI-partC-sec1320d-6.htm
+
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management, third-party-responsibilities, breach-notification and enforcement comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
+These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management, third-party-responsibilities, breach-notification, enforcement and penalties comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
 
 [Read the comparison matrix](../04_Comparison_Matrix/README.md)
