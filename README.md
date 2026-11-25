@@ -10,7 +10,7 @@ This proposed study compares how HIPAA and GDPR protect the privacy and security
 
 **Primary research question:** How do HIPAA and GDPR differ in their approaches to protecting the privacy and security of health-related data?
 
-The [main research proposal](01_Research_Proposal/HIPAA_GDPR_Research_Proposal.docx) is the source for this overview. The research scope covers developments from 2020 through September 2026, with earlier material used to establish a baseline. The proposal includes consideration of the January 2025 HIPAA Security Rule modernization proposal and the November 2025 Digital Omnibus package. These are descriptions of the proposal's scope, not an independent verification of their present legal status.
+The [main research proposal](01_Research_Proposal/HIPAA_GDPR_Research_Proposal.docx) is the source for this overview. The research scope covers developments from 2020 through October 31, 2026, with earlier material used to establish a baseline. The proposal includes consideration of the January 2025 HIPAA Security Rule modernization proposal and the November 2025 Digital Omnibus package. These are descriptions of the proposal's scope, not an independent verification of their present legal status.
 
 ## Planned methodology and outputs
 
