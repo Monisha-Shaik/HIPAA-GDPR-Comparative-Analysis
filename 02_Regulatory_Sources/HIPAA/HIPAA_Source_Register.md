@@ -1,6 +1,6 @@
 # HIPAA Source Register
 
-## H1 HIPAA Regulations
+## HO1 HIPAA Regulations
 
 **Title:** 45 CFR Part 160 General Administrative Requirements and 45 CFR Part 164 Security and Privacy.
 
