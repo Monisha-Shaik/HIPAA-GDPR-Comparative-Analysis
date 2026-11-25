@@ -22,3 +22,13 @@
 **URL:** [Summary of the HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
 **Relevance:** This official explanatory summary helps interpret the HIPAA Privacy Rule. It covers who is subject to the rule, what protected health information is, permitted uses and disclosures, the minimum necessary principle, and individuals' rights. It supports the comparison of HIPAA and GDPR regulatory scope and privacy obligations. It is supporting guidance; the regulatory text governs if the summary conflicts with the rule.
+
+## HO3 Summary of the HIPAA Security Rule
+
+**Title:** Summary of the HIPAA Security Rule.
+
+**Publisher:** U.S. Department of Health and Human Services (HHS), Office for Civil Rights (OCR).
+
+**URL:** [Summary of the HIPAA Security Rule](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)
+
+**Relevance:** Explains safeguards for electronic protected health information, including risk analysis, risk management, access controls, and organizational responsibilities. It supports our comparison of HIPAA and GDPR security requirements.
