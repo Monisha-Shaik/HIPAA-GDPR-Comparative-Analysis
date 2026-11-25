@@ -39,3 +39,15 @@
 **URL:** [Obligations under GDPR](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/obligations_en)
 
 **Relevance:** This European Commission guidance helps the study understand how organizations identify and manage risks when handling personal data. It connects the research’s focus on digital health information with the responsibility to select appropriate security measures and assess potential harm to individuals before introducing higher-risk processing activities. It supports examination of how privacy and security protections are built into organizational decisions.
+
+## GO5 Controller and Processor Guidance
+
+**Title:** Guidelines 07/2020 on the concepts of controller and processor in the GDPR.
+
+**Publisher:** European Data Protection Board (EDPB).
+
+**URL:** [Guidelines 07/2020 on controller and processor](https://www.edpb.europa.eu/documents/guideline/guidelines-072020-on-the-concepts-of-controller-and-processor-in-the-gdpr_en)
+
+**PDF:** [Final guidance Version 2.1](EDPB_Guidelines_07_2020_Controller_Processor_Final.pdf)
+
+**Relevance:** This EDPB guidance helps the study understand how responsibility for protecting personal data is allocated between organizations. It connects the research’s focus on digital healthcare and external service providers with the distinction between organizations that decide how and why data is processed and those that process it on another organization’s behalf. It supports examination of accountability when health information moves between healthcare organizations and their service providers.
