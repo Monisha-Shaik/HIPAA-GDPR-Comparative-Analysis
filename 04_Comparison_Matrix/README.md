@@ -1,12 +1,12 @@
 # HIPAA and GDPR Comparison Matrix
 
-Read all 45 comparisons across eight categories below without downloading the workbook.
+This matrix presents 45 comparisons across eight domains of health-data privacy and security under HIPAA and GDPR.
 
-[Download the Excel matrix](HIPAA_GDPR_Comparison_Matrix.xlsx)
+[Download comparison matrix (.xlsx)](HIPAA_GDPR_Comparison_Matrix.xlsx)
 
 Scope: federal HIPAA and GDPR health-data privacy/security as of October 31, 2026. Earlier law establishes the baseline. Post-cutoff developments are labelled separately. More protective state laws and 42 CFR Part 2 may apply alongside HIPAA; this matrix does not comprehensively compare them. Part 2-related HIPAA notice duties are identified where relevant (45 CFR § 160.203; sources HIPAA-27 and HIPAA-32).
 
-This page reproduces the uploaded workbook. Each topic includes its requirements, provisions, source IDs, legal status, proposed changes, similarities and differences, and practical implications. Source URLs appear in full in the source list.
+Each comparison identifies the applicable requirements, supporting legal provisions, source references, legal status and relevant proposed changes, followed by similarities, differences and practical implications.
 
 Historical source basis: Parts 160 and 164 were checked using user-supplied eCFR text captures displaying the version in effect on October 31, 2026. Court-affected provisions are read with the cited judicial and HHS materials. Proposed and post-cutoff developments are identified separately.
 
