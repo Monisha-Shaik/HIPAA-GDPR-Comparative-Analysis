@@ -349,6 +349,6 @@ https://www.govinfo.gov/content/pkg/USCODE-2024-title42/html/USCODE-2024-title42
 
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management, third-party-responsibilities, breach-notification, enforcement and penalties comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
+The accompanying matrix presents 46 comparisons across eight domains of health-data privacy and security. It brings together HIPAA and GDPR requirements, supporting legal provisions and sources, similarities and differences, and practical implications. Applicable requirements, proposed reforms and adopted measures with deferred application are distinguished by their legal status at the study cutoff.
 
-[Read the comparison matrix](../04_Comparison_Matrix/README.md)
+[HIPAA–GDPR Comparison Matrix](../04_Comparison_Matrix/README.md)
