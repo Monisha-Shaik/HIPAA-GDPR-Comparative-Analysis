@@ -252,6 +252,10 @@ U.S. Department of Health and Human Services. (n.d.-b). *Guidance to render unse
 
 https://www.hhs.gov/hipaa/for-professionals/breach-notification/guidance/index.html
 
+Regulation (EU) 2025/2518 of the European Parliament and of the Council of 26 November 2025 laying down additional procedural rules on the enforcement of Regulation (EU) 2016/679. (2025). *Official Journal of the European Union, L*, 2025/2518, December 12, 2025.
+
+https://eur-lex.europa.eu/eli/reg/2025/2518/oj/eng
+
 ## Supporting Comparison Matrix
 
 These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards, risk-management, third-party-responsibilities and breach-notification comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
