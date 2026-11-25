@@ -92,6 +92,38 @@ HIPAA requires security awareness and training, together with appropriate sancti
 
 The comparison indicates opportunities to coordinate security activities across the two frameworks. Organizations must nevertheless map those activities to each framework’s scope, implementation conditions and supporting evidence. Shared objectives do not establish interchangeable legal requirements. These findings describe regulatory responsibilities; they do not rank the frameworks or measure organizational compliance, security effectiveness or patient outcomes.
 
+## Risk Management
+
+The comparison identified six areas of risk governance: assessment, risk reduction, impact assessments, ongoing review, designated roles and documentation. Designated roles and documentation are included as accountability mechanisms through which risk-governance duties are assigned and evidenced. Both frameworks connect protective measures to identified risks. Their assessment scopes, procedural triggers and documentation requirements differ. These findings reflect the October 31, 2026 baseline.
+
+### Risk Assessment
+
+HIPAA requires an accurate and thorough assessment of potential risks and vulnerabilities to the confidentiality, integrity and availability of electronic protected health information held by regulated entities. GDPR connects compliance and security measures to processing context and risks to individuals’ rights and freedoms. The comparison identifies overlapping assessment activities, while distinguishing the legal scope of the risks examined (45 CFR §§ 164.308(a)(1)(ii)(A), 164.306(b); Regulation (EU) 2016/679, Articles 24(1), 32(1)–(2)).
+
+### Risk Reduction
+
+HIPAA requires security measures sufficient to reduce identified risks and vulnerabilities to a reasonable and appropriate level. GDPR requires risk-appropriate security and requires controllers to integrate data-protection safeguards into processing design and operation. Under both frameworks, identifying risks must be followed by implementing measures that address them. The applicable duties cannot be satisfied through assessment alone (45 CFR §§ 164.308(a)(1)(ii)(B), 164.306(b); Regulation (EU) 2016/679, Articles 25(1), 32(1)).
+
+### Impact Assessments and Prior Consultation
+
+HIPAA security risk analysis is a general requirement for Security Rule regulated entities. GDPR requires a data protection impact assessment before processing likely to result in high risk; large-scale processing of health data is a specified trigger. A DPIA examines necessity, proportionality, risks and safeguards. Prior consultation with the supervisory authority is required where the assessment identifies high risk that cannot be sufficiently mitigated before processing. A HIPAA risk analysis may contribute evidence to a DPIA, but does not automatically fulfil its requirements (45 CFR § 164.308(a)(1)(ii)(A); Regulation (EU) 2016/679, Articles 35(1)–(3), 35(7), 36(1)).
+
+### Ongoing Review
+
+HIPAA requires periodic technical and nontechnical evaluation, maintenance of security measures and updates to documentation following relevant changes. GDPR requires necessary compliance updates, regular security-effectiveness testing and DPIA review where necessary, at least when processing risks change. Neither cited baseline establishes a universal annual deadline for repeating every assessment. Review obligations must therefore be distinguished from annual intervals appearing in proposed reforms (45 CFR §§ 164.308(a)(8), 164.306(e), 164.316(b)(2)(iii); Regulation (EU) 2016/679, Articles 24(1), 32(1)(d), 35(11)).
+
+### Governance Roles
+
+HIPAA requires covered entities to designate a privacy official and complaint contact, while Security Rule regulated entities must identify a responsible security official. GDPR requires a data protection officer when its designation criteria apply, with defined position and task requirements. An EU representative is a separate role subject to its own conditions. These roles should be assessed individually rather than treated as equivalent appointments (45 CFR §§ 164.530(a), 164.308(a)(2); Regulation (EU) 2016/679, Articles 27, 37–39).
+
+### Documentation and Records of Processing
+
+HIPAA requires specified compliance documentation to be retained for six years from creation or the date it was last effective, whichever is later. GDPR prescribes controller and processor records of processing activities with different contents and conditional exemptions. Organization size alone does not establish the Article 30(5) exemption when processing includes health data. These documentation duties are distinct; HIPAA’s retention period is not a universal GDPR records-retention rule or a general medical-record retention period (45 CFR §§ 164.316, 164.530(j); Regulation (EU) 2016/679, Article 30(1)–(5)).
+
+### Implication for the Research Question
+
+The comparison indicates that organizations can coordinate risk identification, corrective actions, review schedules and supporting documentation. Each activity must nevertheless address the relevant assessment scope, procedural triggers and assigned responsibilities. Shared evidence may support work under both frameworks, while separate decisions remain necessary for DPIAs, prior consultation, role designation and records of processing. These findings describe governance requirements rather than their effectiveness in practice.
+
 ## References
 
 45 CFR §§ 160.102–160.103. (2026). General administrative requirements, October 31 historical version.
@@ -120,6 +152,6 @@ https://www.hhs.gov/hipaa/for-professionals/special-topics/health-information-te
 
 ## Supporting Comparison Matrix
 
-These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements and security-safeguards comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
+These findings synthesize the matrix's regulatory-scope, international-transfer, privacy-requirements, security-safeguards and risk-management comparisons. Legal requirements and interpretive findings are distinguished from observed organizational outcomes.
 
 [Read the comparison matrix](../04_Comparison_Matrix/README.md)
