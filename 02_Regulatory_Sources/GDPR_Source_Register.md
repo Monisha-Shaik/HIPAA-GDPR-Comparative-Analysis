@@ -51,3 +51,13 @@
 **PDF:** [Final guidance Version 2.1](EDPB_Guidelines_07_2020_Controller_Processor_Final.pdf)
 
 **Relevance:** This EDPB guidance helps the study understand how responsibility for protecting personal data is allocated between organizations. It connects the research’s focus on digital healthcare and external service providers with the distinction between organizations that decide how and why data is processed and those that process it on another organization’s behalf. It supports examination of accountability when health information moves between healthcare organizations and their service providers.
+
+## GO6 Personal Data Breach Notification Guidance
+
+**Title:** Guidelines 9/2022 on personal data breach notification under GDPR.
+
+**Publisher:** European Data Protection Board (EDPB).
+
+**URL:** [Guidelines 9/2022 on breach notification](https://www.edpb.europa.eu/documents/guideline/guidelines-92022-on-personal-data-breach-notification-under-gdpr_en)
+
+**Relevance:** This EDPB guidance helps the study understand how organizations respond when personal data is compromised. It connects the research’s focus on health information protection with the assessment of harm to individuals and decisions about notifying authorities and affected people. It supports examination of organizational responsibility after a breach.
