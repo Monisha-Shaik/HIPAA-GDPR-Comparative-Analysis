@@ -16,7 +16,7 @@ HIPAA protects individually identifiable health information within its coverage 
 
 HIPAA coverage follows covered-entity and business-associate relationships rather than an establishment or targeting test equivalent to GDPR Article 3. GDPR separately establishes territorial applicability through EU establishment and specified offering-of-goods-or-services or monitoring activities involving people in the EU. Identifying the applicable framework is therefore a separate decision from deciding whether information may be processed overseas (45 CFR §§ 160.102–160.103; Regulation (EU) 2016/679, Article 3).
 
-The transfer comparison identifies an additional decision under GDPR. Where personal data are transferred to a third country or international organization, Chapter V requires an applicable transfer route, such as an adequacy decision, appropriate safeguards or a qualifying derogation. A processor agreement alone does not establish that route. HIPAA does not establish an equivalent Chapter V transfer mechanism. HHS guidance permits overseas cloud storage when applicable HIPAA requirements are met, including business-associate arrangements and assessment of geographic risks. Consequently, healthcare organizations and other entities processing health data may need both a valid service-provider arrangement and a separate GDPR transfer assessment for the same data flow (45 CFR §§ 164.308(a)(1)(ii)(A) and 164.502(e); Regulation (EU) 2016/679, Articles 44–49; U.S. Department of Health and Human Services, n.d.).
+The transfer comparison identifies an additional decision under GDPR. Where personal data are transferred to a third country or international organization, Chapter V requires an applicable transfer route, such as an adequacy decision, appropriate safeguards or a qualifying derogation. A processor agreement alone does not establish that route. HIPAA does not establish an equivalent Chapter V transfer mechanism. HHS guidance permits overseas cloud storage when applicable HIPAA requirements are met, including business-associate arrangements and assessment of geographic risks. Consequently, healthcare organizations and other entities processing health data may need both a valid service-provider arrangement and a separate GDPR transfer assessment for the same data flow (45 CFR §§ 164.308(a)(1)(ii)(A) and 164.502(e); Regulation (EU) 2016/679, Articles 44–49; U.S. Department of Health and Human Services, n.d.-a).
 
 ### Implication for the Research Question
 
@@ -146,7 +146,7 @@ HIPAA requires reasonable steps to address known material violations of business
 
 ### International Transfers
 
-HIPAA does not establish a GDPR-style adequacy regime or a general requirement for US-only storage. Overseas service arrangements remain subject to applicable business associate agreements, safeguards and risk analysis, including consideration of geographic risks (45 CFR §§ 164.308(a)(1), 164.502(e), 164.504(e); U.S. Department of Health and Human Services, n.d.).
+HIPAA does not establish a GDPR-style adequacy regime or a general requirement for US-only storage. Overseas service arrangements remain subject to applicable business associate agreements, safeguards and risk analysis, including consideration of geographic risks (45 CFR §§ 164.308(a)(1), 164.502(e), 164.504(e); U.S. Department of Health and Human Services, n.d.-a).
 
 GDPR territorial applicability and international-transfer requirements are separate questions. EDPB Guidelines 05/2021 identify three cumulative transfer criteria: an exporter subject to GDPR for the relevant processing; disclosure or availability of personal data to a separate controller or processor; and an importer in a third country or an international organization. Direct collection from an individual in the EU by a US provider subject to Article 3(2) does not itself constitute such a transfer. Subsequent disclosure to a separate third-country provider may do so (European Data Protection Board, 2023, Section 2, pp. 7–9, Examples 1–2).
 
@@ -184,7 +184,7 @@ RW v Österreichische Post AG, C-154/21, ECLI:EU:C:2023:3 (Court of Justice of t
 
 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62021CJ0154
 
-U.S. Department of Health and Human Services. (n.d.). *Guidance on HIPAA & cloud computing.* See “Do the HIPAA Rules allow a covered entity or business associate to use a CSP that stores ePHI on servers outside of the United States?”
+U.S. Department of Health and Human Services. (n.d.-a). *Guidance on HIPAA & cloud computing.* See “Do the HIPAA Rules allow a covered entity or business associate to use a CSP that stores ePHI on servers outside of the United States?”
 
 https://www.hhs.gov/hipaa/for-professionals/special-topics/health-information-technology/cloud-computing/index.html
 
@@ -207,6 +207,18 @@ https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=en&num=
 Tschider, C., Corrales Compagnucci, M., & Minssen, T. (2024). The new EU–US data protection framework’s implications for healthcare. *Journal of Law and the Biosciences, 11*(2), Article lsae022.
 
 https://doi.org/10.1093/jlb/lsae022
+
+Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union (NIS2 Directive). (2022). Article 23 and Annex I.
+
+https://eur-lex.europa.eu/eli/dir/2022/2555/oj/eng
+
+Health Breach Notification Rule, 16 CFR Part 318.
+
+https://www.ftc.gov/legal-library/browse/rules/health-breach-notification-rule
+
+U.S. Department of Health and Human Services. (n.d.-b). *Guidance to render unsecured protected health information unusable, unreadable, or indecipherable to unauthorized individuals.*
+
+https://www.hhs.gov/hipaa/for-professionals/breach-notification/guidance/index.html
 
 ## Supporting Comparison Matrix
 
