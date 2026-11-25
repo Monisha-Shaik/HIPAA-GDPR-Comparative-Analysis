@@ -1,6 +1,6 @@
 # HIPAA and GDPR Comparison Matrix
 
-This matrix presents 45 comparisons across eight domains of health-data privacy and security under HIPAA and GDPR.
+This matrix presents 46 comparisons across eight domains of health-data privacy and security under HIPAA and GDPR.
 
 [Download comparison matrix (.xlsx)](HIPAA_GDPR_Comparison_Matrix.xlsx)
 
@@ -235,6 +235,19 @@ Historical source basis: Parts 160 and 164 were checked using user-supplied eCFR
 | Relevant proposed change | PC1 proposes multi-factor authentication with limited exceptions. Proposed at the cutoff. No direct replacement of Article 32 identified in PC3. |
 | Similarities and differences | Similarity: Both require measures to protect information against unauthorized access.<br><br>Difference: HIPAA specifies access-control and identity-verification requirements, including required and addressable items. GDPR applies a risk-based security standard and controls processing by people acting under authority. |
 | Practical implications | Assign individual accounts and appropriate access permissions. Verify identities and review changes when staff or vendor access ends. |
+
+### Integrity controls
+
+| Field | Comparison |
+| --- | --- |
+| HIPAA requirement | Implement policies and procedures to protect electronic PHI from improper alteration or destruction. The integrity standard is required; the electronic mechanisms to corroborate that electronic PHI has not been altered or destroyed in an unauthorized manner are an addressable implementation specification. |
+| GDPR requirement | Article 5(1)(f) establishes the integrity and confidentiality principle. Article 32(1)(b) includes the ability to ensure ongoing integrity of processing systems and services among security measures to apply as appropriate to risk. |
+| Supporting provisions | HIPAA<br>45 CFR § 164.312(c)(1)–(2); § 164.306(d)(3).<br>GDPR<br>Articles 5(1)(f) and 32(1)(b). |
+| Source IDs | HIPAA: HIPAA-24<br>GDPR: GDPR-01<br>Related: PC1 |
+| Legal status | Cited HIPAA and GDPR baseline provisions applicable at October 31, 2026. PC1 is a proposal, not an applicable replacement for the baseline integrity requirements. |
+| Relevant proposed change | PC1 proposes to redesignate integrity as § 164.312(e), require technical controls protecting electronic PHI at rest and in transit, and require effectiveness review and testing at least every 12 months or after environmental or operational changes, whichever is more frequent, with modification as reasonable and appropriate. It proposes removing the separate § 164.312(c)(2) specification and incorporating transmission integrity into the revised standard. See PC1 § IV.F.3.f, p. 973, proposed § 164.312(e), p. 1019, and § IV.F.3.h, p. 977. Proposed at the cutoff. |
+| Similarities and differences | Similarity: Both address the integrity of protected information and protection against improper alteration or destruction.<br><br>Difference: HIPAA distinguishes its required integrity standard from an addressable electronic-corroboration specification. GDPR expresses integrity through its general principle and risk-appropriate security obligations. |
+| Practical implications | Document how integrity is protected and how unauthorized changes or destruction are detected. Assess the applicable requirements under each framework; distinguish baseline duties from PC1's proposed technical-control and testing requirements. |
 
 ### Encryption at rest and in transit
 
