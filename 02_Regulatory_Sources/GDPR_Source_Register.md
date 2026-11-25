@@ -71,3 +71,13 @@
 **URL:** [Enforcement and sanctions](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/enforcement-and-sanctions_en)
 
 **Relevance:** This European Commission guidance helps the study understand how GDPR obligations are enforced and how organizations are held accountable for noncompliance. It connects the research’s examination of privacy and security responsibilities with regulatory investigations, corrective measures, penalties, and individuals’ access to remedies. It provides context for explaining the practical consequences of failing to protect health information.
+
+## GO8 GDPR Enforcement Procedural Regulation
+
+**Title:** Regulation (EU) 2025/2518 laying down additional procedural rules on the enforcement of Regulation (EU) 2016/679.
+
+**Publisher:** Official Journal of the European Union, available through EUR-Lex. Adopted by the European Parliament and the Council of the European Union.
+
+**URL:** [Regulation (EU) 2025/2518](https://eur-lex.europa.eu/eli/reg/2025/2518/oj/eng)
+
+**Relevance:** This regulation helps the study examine how GDPR enforcement is developing when cases involve organizations and individuals in different EU countries. It connects the research’s focus on regulatory developments with efforts to improve cooperation between authorities and the handling of complaints. It supports understanding how enforcement procedures can influence accountability in cross-border healthcare environments. The regulation is in force, but its procedures apply from April 2, 2027, so the study will treat it as an adopted development with future application rather than procedures already applicable at the October 31, 2026 cutoff.
