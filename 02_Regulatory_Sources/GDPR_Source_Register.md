@@ -61,3 +61,13 @@
 **URL:** [Guidelines 9/2022 on breach notification](https://www.edpb.europa.eu/documents/guideline/guidelines-92022-on-personal-data-breach-notification-under-gdpr_en)
 
 **Relevance:** This EDPB guidance helps the study understand how organizations respond when personal data is compromised. It connects the research’s focus on health information protection with the assessment of harm to individuals and decisions about notifying authorities and affected people. It supports examination of organizational responsibility after a breach.
+
+## GO7 Enforcement and Penalties Guidance
+
+**Title:** Enforcement and sanctions.
+
+**Publisher:** European Commission.
+
+**URL:** [Enforcement and sanctions](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/enforcement-and-sanctions_en)
+
+**Relevance:** This European Commission guidance helps the study understand how GDPR obligations are enforced and how organizations are held accountable for noncompliance. It connects the research’s examination of privacy and security responsibilities with regulatory investigations, corrective measures, penalties, and individuals’ access to remedies. It provides context for explaining the practical consequences of failing to protect health information.
