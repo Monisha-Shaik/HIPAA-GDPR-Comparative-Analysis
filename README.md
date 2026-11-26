@@ -1,6 +1,6 @@
 # HIPAA–GDPR Comparative Analysis
 
-**Health Data Privacy and Security Under HIPAA and GDPR: A Comparative Analysis of Current and Proposed Requirements**
+**Health Data Privacy and Security Under HIPAA and GDPR: A Comparative Analysis of Applicable Requirements and Selected Reforms**
 
 Monisha Shaik · Indiana University · Fall 2026
 
@@ -43,9 +43,9 @@ For each topic, it records HIPAA and GDPR requirements, supporting provisions, s
 | [Comparison matrix](04_Comparison_Matrix/) | Readable comparisons and the downloadable Excel workbook |
 | [Research findings](05_Research_Findings/) | Comparative findings across eight domains |
 | [Discussion, limitations and conclusion](06_Discussion_Limitations_Conclusion/) | Interpretation, study boundaries and concluding synthesis |
-| [Research paper](07_Research_Paper/) | Manuscript under development |
+| [Research paper](07_Research_Paper/) | Complete APA 7 manuscript in Word and PDF formats |
 
-The proposal, source registers, literature review, comparison matrix, findings, discussion, limitations and conclusion are available in this repository. The complete manuscript remains to be assembled. Source-version limitations and unresolved verification issues are recorded with the relevant evidence.
+The proposal, source registers, literature review, comparison matrix, findings, discussion, limitations and conclusion are available in this repository. The complete APA 7 manuscript is available in Word and PDF formats in the Research Paper folder. Source-version limitations and unresolved verification issues are recorded with the relevant evidence.
 
 A [research application](08_Research_Application/) remains a planned optional extension for exploring the comparisons. It is separate from the written study's deliverables.
 
